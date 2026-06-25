@@ -34,6 +34,22 @@ Incubyte-Gmail-Manual-Testing/
     └── Gmail_Compose_TestCases.xlsx
 ```
 
+## Tools Used
+
+- Microsoft Excel / Google Sheets – For creating and maintaining manual test cases.
+- GitHub – For version control and assignment submission.
+
+---
+
+## Test Case Summary
+
+| Test Case Type | Count |
+|----------------|------:|
+| Traditional Test Cases | 15 |
+| BDD Test Cases | 10 |
+| Total Test Cases | 25 |
+
+---
 ---
 
 ## Test Coverage
